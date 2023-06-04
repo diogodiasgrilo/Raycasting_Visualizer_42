@@ -1,6 +1,6 @@
 ![Raycasting](./sprites/raycasting.png)
 
-Example of a command for the program:
+Proper usage when executing the program:
 
 "program name" "map file"
 
