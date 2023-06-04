@@ -1,4 +1,4 @@
-![alt text]((https://github.com/diogodiasgrilo/Raycasting_Visualizer_42/blob/main/sprites/raycasting.png) "Raycasting")
+![Raycasting](./sprites/raycasting.png)
 
 Example of a command for the program:
 
