@@ -1,4 +1,4 @@
-![Raycasting](./sprites/raycasting.png)
+![Raycasting](./sprites/raycaster.png)
 
 Proper usage when executing the program:
 
