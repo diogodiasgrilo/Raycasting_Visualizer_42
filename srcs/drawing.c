@@ -6,7 +6,7 @@
 /*   By: diogpere <diogpere@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/04 11:33:42 by diogpere          #+#    #+#             */
-/*   Updated: 2023/06/04 12:55:38 by diogpere         ###   ########.fr       */
+/*   Updated: 2023/06/04 13:35:38 by diogpere         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -86,22 +86,10 @@ void	create_rows(t_image_creator *ic, t_lay lay, char **map)
 	{
 		ic->pix_index = (ic->x * ic->bpp / 8) + (ic->y * ic->size_line);
 		if (map[ic->y / SIZE][ic->x / SIZE] == '1')
-		{
-			if (ic->y % SIZE == 0 || ic->x % SIZE == 0 || ic->y % \
-				SIZE == SIZE - 1 || ic->x % SIZE == SIZE - 1)
-				*(unsigned int *)(ic->data + ic->pix_index) = NEWWHITE;
-			else
-				*(unsigned int *)(ic->data + ic->pix_index) = GREY;
-		}
+			*(unsigned int *)(ic->data + ic->pix_index) = GREY;
 		else if (map[ic->y / SIZE][ic->x / SIZE] == '0' || \
 			map[ic->y / SIZE][ic->x / SIZE] == 'C')
-		{
-			if (ic->y % SIZE == 0 || ic->x % SIZE == 0 || \
-				ic->y % SIZE == SIZE - 1 || ic->x % SIZE == SIZE - 1)
-				*(unsigned int *)(ic->data + ic->pix_index) = NEWWHITE;
-			else
-				*(unsigned int *)(ic->data + ic->pix_index) = BLACK;
-		}
+			*(unsigned int *)(ic->data + ic->pix_index) = BLACK;
 		ic->x++;
 	}
 }
