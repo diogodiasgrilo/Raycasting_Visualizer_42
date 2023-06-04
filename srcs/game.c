@@ -21,7 +21,7 @@ void	start_game(char **map, t_lay lay)
 	g.lay_bak = lay;
 	g.id = mlx_init();
 	g.w_id = mlx_new_window(g.id, lay.n_col * SIZE, lay.n_row * SIZE,
-			"Cub3d");
+			"Raycaster");
 	g.img = create_image(g.id, lay, map);
 	mlx_put_image_to_window(g.id, g.w_id, g.img, 0, 0);
 	g.player = mlx_xpm_file_to_image(g.id, \
