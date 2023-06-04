@@ -6,5 +6,5 @@ Proper usage when executing the program:
 
 Visual example:
 ```bash
-➜  ~ ./raycasting ./maps/test.ber
+➜  ~ ./raycasting ./maps/test1.ber
 ```
