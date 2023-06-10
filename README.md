@@ -14,4 +14,4 @@ The a and d keys will move the angle of the rays (player's view).
 
 The s and w keys will move the player forward and backwards based on where the rays are pointed to.
 
-Raycasting can then be used to create 3D looking games by assigning a rectangle on the screen for each ray cast, thus creating a different sized rectangle based on how long each cast ray was. This will create the illusion of a 3D world with 2D objects.
+Raycasting can then be used to create 3D looking games by assigning a rectangle on the screen for each ray cast, thus creating a different sized rectangle based on how long each cast ray was. This will create the illusion of a 3D world with 2D objects. The next step for this raycaster is to start drawing rectangles on a split screen with the minimap.
