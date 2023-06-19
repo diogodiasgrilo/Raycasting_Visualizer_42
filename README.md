@@ -10,7 +10,7 @@ Visual example:
 ```
 You can move the square player around with the asdw keys and the square will move in the direction that the rays are shooting towards.
 
-The a and d keys will move the angle of the rays (player's view).
+The a and d keys will move the angle of the rays (player's view perspective).
 
 The s and w keys will move the player forward and backwards based on where the rays are pointed to.
 
