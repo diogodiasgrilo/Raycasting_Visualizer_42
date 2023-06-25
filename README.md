@@ -1,10 +1,10 @@
 ![Raycasting](./sprites/raycaster.png)
 
-Proper usage when executing the program:
+Here is the proper usage when executing the program:
 
 "program name" "map file"
 
-Visual example:
+Here is a visual example:
 ```bash
 ➜  ~ ./raycasting ./maps/test1.ber
 ```
