@@ -1,5 +1,7 @@
 ![Raycasting](./sprites/raycaster.png)
 
+I created this program as a base for the minimap system of the cub3d project at 42 Lisbon.
+
 Here is the proper usage when executing the program:
 
 "program name" "map file"
