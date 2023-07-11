@@ -6,7 +6,7 @@ Here is the proper usage when executing the program:
 
 "program name" "map file"
 
-Here is a visual example of what to input in the terminal:
+Here is a visual example of what command to input in the terminal:
 ```bash
 ➜  ~ ./raycasting ./maps/test1.ber
 ```
