@@ -1,6 +1,6 @@
 ![Raycasting](./sprites/raycaster.png)
 
-I created this program as a base for the minimap system of the cub3d project at the 42 Lisbon campus.
+I created this program as a base for the minimap system of the Cub3d project at the 42 Lisbon campus.
 
 Here is the proper usage when executing the program:
 
