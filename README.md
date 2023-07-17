@@ -1,12 +1,12 @@
 ![Raycasting](./sprites/raycaster.png)
 
-I created this program as a base for the minimap system of the Cub3d project at the 42 Lisbon campus.
+I created this raycasting program as a base for the minimap system of the Cub3d project at the 42 Lisbon campus.
 
 Here is the proper way to execute the program:
 
 "program name" "map file"
 
-Here is a visual example of what command to input in the terminal:
+Here is a visual example of a command to input in the terminal:
 ```bash
 ➜  ~ ./raycasting ./maps/test1.ber
 ```
