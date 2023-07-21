@@ -12,7 +12,7 @@ Here is a visual example of a command to input in the terminal:
 ```
 You can move the square player around with the ASDW keys and the square will move in the direction that the rays are shooting towards, either left, right, up, or down, not diagonally.
 
-The A and D keys will move the angle of the rays (the player's view perspective).
+The A and D keys will move the angle of the rays (the player's perspective).
 
 The S and W keys will move the player forward and backward based on where the rays are pointed at on the map.
 
