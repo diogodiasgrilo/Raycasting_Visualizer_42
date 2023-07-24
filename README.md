@@ -2,7 +2,7 @@
 
 I created this raycasting program as a base for the minimap system of the Cub3d project at the 42 Lisbon campus.
 
-Here is the proper way to execute the program:
+Here is the proper way to execute the raycasting program:
 
 "program name" "map file"
 
