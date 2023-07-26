@@ -1,6 +1,6 @@
 ![Raycasting](./sprites/raycaster.png)
 
-I created this raycasting program as a base for the minimap system of the Cub3d project at the 42 Lisbon campus.
+I created this raycasting program as a base for the minimap system of the Cub3d project for the 42 Lisbon campus cursus.
 
 Here is the proper way to execute the raycasting program:
 
