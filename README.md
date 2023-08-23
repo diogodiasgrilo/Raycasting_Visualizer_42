@@ -6,7 +6,7 @@ Here is the proper way to execute the raycasting program in the terminal:
 
 "program name" "map file"
 
-Here is a visual example of a command to input in the terminal:
+Here is a visual example of a command to input into the terminal to try out the raycasting program:
 ```bash
 ➜  ~ ./raycasting ./maps/test.ber
 ```
