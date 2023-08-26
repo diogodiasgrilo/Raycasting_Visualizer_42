@@ -1,6 +1,6 @@
 ![Raycasting](./sprites/raycaster.png)
 
-I created this raycasting program as a base for the minimap of the Cub3d project which is part of the 42 Lisbon campus cursus.
+I created this raycasting program as a base for the minimap system of the Cub3d project which is part of the 42 Lisbon campus cursus.
 
 Here is the proper way to execute the raycasting program in the terminal:
 
