@@ -2,7 +2,7 @@
 
 I created this raycasting program as a base program for the minimap system of the Cub3d project which is part of the 42 Lisbon campus cursus.
 
-Here is the proper way to execute the raycasting program in your chosen terminal:
+Here is the proper command order to execute the raycasting program in your chosen terminal:
 
 "program name" "map file"
 
