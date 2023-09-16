@@ -10,7 +10,7 @@ Here is a visual example of a command to input into the terminal to try out the 
 ```bash
 ➜  ~ ./raycasting ./maps/test.ber
 ```
-You can move the square-looking player around with the ASDW keys and the player-square will move in the direction that the rays are pointed at, either left, right, up, or down.
+You can move the square-looking player icon around with the ASDW keys and the player-square will move in the direction that the rays are pointed at, either left, right, up, or down.
 
 The A and D keys will move the angle of the rays (aka the player's perspective).
 
